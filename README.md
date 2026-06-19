@@ -40,4 +40,4 @@
 ---
 
 ## 👤 Auteur & Crédits
-* **Étudiant :** Baayvin SOUBRAMANIEN
+* **Étudiant :** Baayvin SOUBRAMANIEN  & Damien MARIE
